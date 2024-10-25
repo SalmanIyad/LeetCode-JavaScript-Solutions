@@ -18,9 +18,9 @@ var maxArea = function(height) {
         maxArea = Math.max(maxArea, currentArea);
 
         if (height[left] < height[right]) {
-            left++;
+            ++left;
         } else {
-            right--;
+            --right;
         }
     }
 
