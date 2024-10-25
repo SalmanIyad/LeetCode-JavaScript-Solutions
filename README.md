@@ -63,3 +63,15 @@
 - **GitHub:** [*Salman Iyad GitHub Profile*](https://github.com/salmaniyad)  
 - **Dev.to:** [*Salman Iyad Dev.to Profile*](https://dev.to/salmaniyad)  
 - **Hashnode:** [*Salman Iyad Hashnode Profile*](https://hashnode.com/@salmaniyad)  
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Linked List
+|  |
+| ------- |
+| [0908-middle-of-the-linked-list](https://github.com/SalmanIyad/LeetCode-JavaScript-Solutions/tree/master/0908-middle-of-the-linked-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0908-middle-of-the-linked-list](https://github.com/SalmanIyad/LeetCode-JavaScript-Solutions/tree/master/0908-middle-of-the-linked-list) |
+<!---LeetCode Topics End-->
