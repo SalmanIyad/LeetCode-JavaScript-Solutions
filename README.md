@@ -2,7 +2,7 @@
 **A collection of LeetCode questions to ace the coding interview!**  
 **Created using** [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-Interview%20Prep-brightgreen?style=for-the-badge&logo=leetcode&logoColor=white)](https://github.com/salmaniyad) [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript&logoColor=yellow)](https://github.com/salmaniyad) [![GitHub](https://img.shields.io/badge/-GitHub-grey?style=for-the-badge&logo=github&logoColor=white)](https://github.com/salmaniyad)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Interview%20Prep-brightgreen?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/salmaniyad) [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript&logoColor=yellow)](https://github.com/salmaniyad) [![GitHub](https://img.shields.io/badge/-GitHub-grey?style=for-the-badge&logo=github&logoColor=white)](https://github.com/salmaniyad)
 
 ---
 
